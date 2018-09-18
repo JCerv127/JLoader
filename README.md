@@ -15,8 +15,8 @@ To run, execute the "jloader_start.com" file.
 ### PREREQUISITES
 1. Input file(s) to load. 
     - Accepted file formats/extensions are as follows:
-        > .txt files
-        > .lst files
+        - .txt files
+        - .lst files
     - The files need to be placed in the following directory/path:
         > ./INPUT
 
