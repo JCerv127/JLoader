@@ -1,18 +1,18 @@
-## JLOADER - A Custom SQL-Loader Program
+### JLOADER - A Custom SQL-Loader Program
 
 
-### WHAT IS JLOADER
+##### WHAT IS JLOADER
 This **JLoader** program is created to reuse templates of Oracle's SQL Loader utility. 
 A tree/directory structure is also enforced inorder to properly compile all files,
 including all program files, input as well as the ouput.
 
 
-### GETTING STARTED
-Initially, you just need to deploy the whole JLOADER directory in a UNIX-Linux Environment.
-To run, execute the "jloader_start.com" file.
+##### GETTING STARTED
+Initially, you just need to deploy the whole JLOADER directory in a _UNIX-Linux_ Environment.
+To run, execute the **jloader_start.com** file.
 
 
-### PREREQUISITES
+##### PREREQUISITES
 1. Input file(s) to load. 
     - Accepted file formats/extensions are as follows:
         - .txt files
@@ -27,8 +27,8 @@ To run, execute the "jloader_start.com" file.
         > ./CUSTOM
 
 
-### RUNNING THE PROGRAM 
-1. To run the Program, locate "jloader_start.com" in the root directory and execute it.
+##### RUNNING THE PROGRAM 
+1. To run the program, locate **jloader_start.com** in the root directory and execute it.
     - Sample simulated output after execution:
         ```
             *********************************
@@ -42,15 +42,15 @@ To run, execute the "jloader_start.com" file.
             Enter Process Number:
         ```
 
-2. Enter either 1 or 0 accordingly then press ENTER key.
+2. Enter either _1_ or _0_ accordingly then press **ENTER** key.
 
 3. Simulated output differs according to inputted process number.
-    - If 0 then program automatically exits. 
+    - If _0_ then program automatically exits. 
         ```   
             Enter Process Number: 0
             EXITING PROGRAM...
         ```
-    - Else if 1, then a list of files will be displayed. As shown in the following.
+    - Else if _1_, then a list of files will be displayed. As shown in the following.
         ``` 
             Enter Process Number: 1
 
@@ -61,7 +61,7 @@ To run, execute the "jloader_start.com" file.
             Enter a file to process:
         ```
 
-4. Choose one (1) file from the list, input it's filename then press ENTER. 
+4. Choose one _(1)_ file from the list, input it's filename then press **ENTER**. 
     - Simulated output is as follows:
         ``` 
             Enter a file to process: loader_input.txt
@@ -73,7 +73,7 @@ To run, execute the "jloader_start.com" file.
             Enter custom sql for processing:
         ```
 
-5. Choose one (1) custom sql file from the list, input it's filename then press ENTER. 
+5. Choose one _(1)_ custom sql file from the list, input it's filename then press **ENTER**. 
     - Simulated output is as follows:
         ``` 
             Enter custom sql for processing: loader_custom_process.sql
