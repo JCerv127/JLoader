@@ -8,7 +8,7 @@ including all program files, input as well as the ouput.
 
 
 ##### GETTING STARTED
-Initially, you just need to deploy the whole JLOADER directory in a _UNIX-Linux_ Environment.
+Initially, you just need to deploy the whole **JLOADER** directory in a _UNIX-Linux_ Environment.
 To run, execute the **jloader_start.com** file.
 
 
