@@ -3,7 +3,7 @@
 
 ##### WHAT IS JLOADER
 This **JLoader** program is created to reuse templates of Oracle's SQL Loader utility. 
-A tree/directory structure is also enforced inorder to properly compile all files,
+A tree/directory structure is also enforced in order to properly compile all files,
 including all program files, input as well as the ouput.
 
 
