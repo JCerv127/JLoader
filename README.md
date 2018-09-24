@@ -24,6 +24,10 @@ Initially, you just need to deploy the whole **JLOADER** directory in a _UNIX-Li
         > ./CUSTOM
 
 
+##### CUSTOM TABLE GENERAL SCHEMA
+
+
+
 ##### RUNNING THE PROGRAM 
 1. To run the program, locate **jloader_start.com** in the root directory and execute it.
     - Sample simulated output after execution:
