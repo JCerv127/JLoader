@@ -202,7 +202,7 @@ Initially, you just need to deploy the whole **JLOADER** directory in a _UNIX-Li
 
 
 ##### VERSIONING
-1. Initial DEV _24-SEP-2018_
+1. Initial DEV _04-SEP-2018_
 
 
 ##### AUTHOR
