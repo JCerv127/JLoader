@@ -25,7 +25,9 @@ Initially, you just need to deploy the whole **JLOADER** directory in a _UNIX-Li
 
 
 ##### CUSTOM TABLE GENERAL SCHEMA
-
+- **TABLE NAME** _C_JTBLLOADER_
+    - **GENERAL FIELD NAME TYPE(SIZE)** _jvar[1]-jvar[n] VARCHAR2(255)_
+- **TABLE SYNONYM** _C_JSYNTBL_
 
 
 ##### RUNNING THE PROGRAM 
