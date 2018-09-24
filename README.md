@@ -6,7 +6,7 @@ This **JLoader** program is created to reuse templates of Oracle's SQL Loader ut
 
 
 ##### GETTING STARTED
-Initially, you just need to deploy the whole **JLOADER** directory in a _UNIX-Linux_ Environment. To run, execute the **jloader_start.com** file.
+Initially, you just need to deploy the whole **JLOADER** directory in a _UNIX-Linux_ Environment. Then, add execute permission **(chmod 755)** to every **.com** file in _./_ and _./PROGRAM\_FILES_ directories. To run, execute the **jloader_start.com** file.
 
 
 ##### PREREQUISITES
