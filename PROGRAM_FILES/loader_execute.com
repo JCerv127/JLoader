@@ -6,7 +6,7 @@
 ##*===========================================================================* 
 
 DATEDISP=`date +%Y%m%d`
-SQLID="custom$HOST_CONNECT_STR/custom"
+SQLID="hostconnectstr"
 INPUTFILENAME="$1"
 SQLFILENAME="$2"
 COLNUM="$3"
